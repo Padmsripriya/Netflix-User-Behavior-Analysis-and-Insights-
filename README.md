@@ -1,1 +1,1 @@
-# Netflix-Users--Customer-segmentation-and-trend-analysis
+# Netflix-Users-User Behavior Analysis and Insights 
